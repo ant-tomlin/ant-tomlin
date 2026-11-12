@@ -15,6 +15,8 @@ each train is on its line. A web page and an ESP32-driven wall sign of
 64x64 RGB LED panels both draw the result as a transit-style schematic
 diagram.
 
+<img src="images/seattle-map.png" alt="The web page: a schematic map of Seattle's light rail with live trains and an arrival board for Westlake, next to a preview of the two-panel LED sign" width="700">
+
 <p><img src="images/sign-front.jpg" alt="The LED sign: Seattle's Link map on two LED panels behind a laser-cut wooden facade, with an arrival board for Pioneer Square" width="190"> <img src="images/sign-room.jpg" alt="The sign on a shelf in a kitchen, below posters" width="190"> <img src="images/sign-detail.jpg" alt="The sign from the side, showing the box's finger joints" width="190"> <img src="images/sign-night.jpg" alt="The sign at night on a bookshelf, next to a model of the Space Needle" width="190"></p>
 
 ### What it does
@@ -33,7 +35,7 @@ diagram.
   (GTFS-realtime, predicted stop times only) run side by side. A new city is
   one data file and one map file.
 
-<img src="images/bart-map.png" alt="BART's map with live trains" width="600">
+<img src="images/bart-map.png" alt="The web page: a schematic map of the Bay Area's rapid transit with live trains and an arrival board for Fremont, next to a preview of the two-panel LED sign" width="700">
 
 ### How it works
 
