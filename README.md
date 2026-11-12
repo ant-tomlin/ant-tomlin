@@ -73,8 +73,9 @@ turns that into an LED with one integer formula.
   the panel map and writes laser-cutter files for the facade and box,
   checking design rules like LED clearance and label overlaps.
 - **Firmware built to run unattended.** A captive-portal Wi-Fi setup,
-  password-protected over-the-air updates, mDNS server discovery, a task
-  watchdog, and a night schedule.
+  signed over-the-air updates that the sign downloads itself and rolls back
+  if a new version fails, mDNS server discovery, a task watchdog, and a
+  night schedule.
 - **Deliberately small.** The server is the JDK's own HTTP client and server
   plus Jackson, with no web framework. The frontend is vanilla JavaScript
   and SVG, with no build step.
