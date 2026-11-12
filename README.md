@@ -15,12 +15,7 @@ each train is on its line. A web page and an ESP32-driven wall sign of
 64x64 RGB LED panels both draw the result as a transit-style schematic
 diagram.
 
-<img src="images/seattle-map.png" alt="Seattle's Link map with live trains" width="600">
-
-<img src="images/sign-front.jpg" alt="The LED sign: Seattle's Link map on two LED panels behind a laser-cut wooden facade, with an arrival board for Pioneer Square" width="200">
-<img src="images/sign-room.jpg" alt="The sign on a shelf in a kitchen, below posters" width="200">
-<img src="images/sign-detail.jpg" alt="The sign from the side, showing the box's finger joints" width="200">
-<img src="images/sign-night.jpg" alt="The sign at night on a bookshelf, next to a model of the Space Needle" width="200">
+<p><img src="images/sign-front.jpg" alt="The LED sign: Seattle's Link map on two LED panels behind a laser-cut wooden facade, with an arrival board for Pioneer Square" width="190"> <img src="images/sign-room.jpg" alt="The sign on a shelf in a kitchen, below posters" width="190"> <img src="images/sign-detail.jpg" alt="The sign from the side, showing the box's finger joints" width="190"> <img src="images/sign-night.jpg" alt="The sign at night on a bookshelf, next to a model of the Space Needle" width="190"></p>
 
 ### What it does
 
