@@ -17,7 +17,10 @@ diagram.
 
 <img src="images/seattle-map.png" alt="Seattle's Link map with live trains" width="600">
 
-<!-- TODO: add a photo or GIF of the LED sign here -->
+<img src="images/sign-front.jpg" alt="The LED sign: Seattle's Link map on two LED panels behind a laser-cut wooden facade, with an arrival board for Pioneer Square" width="200">
+<img src="images/sign-room.jpg" alt="The sign on a shelf in a kitchen, below posters" width="200">
+<img src="images/sign-detail.jpg" alt="The sign from the side, showing the box's finger joints" width="200">
+<img src="images/sign-night.jpg" alt="The sign at night on a bookshelf, next to a model of the Space Needle" width="200">
 
 ### What it does
 
